@@ -46,5 +46,18 @@ Sample Superstore Dataset
 - Discount vs Profit Scatter Plot
 - Correlation Heatmap
 - Sales Distribution Box Plot
+## Visualizations
+
+### Sales by Category
+![Sales by Category](images/sales_by_category.png)
+
+### Monthly Sales
+![Monthly Sales](images/monthly_sales.png)
+
+### Discount vs Profit
+![Discount vs Profit](images/discount_vs_profit.png)
+
+### Correlation Heatmap
+![Heatmap](images/correlation_heatmap.png)
 
 ## Author
